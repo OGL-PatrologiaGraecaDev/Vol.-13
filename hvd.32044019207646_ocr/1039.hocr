@@ -1,0 +1,14 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/13/hvd.32044019207646/1039.png"; bbox 0 0 4002 6552; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1834 6502 2183 6513">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1834 6502 2183 6513">
+     <span class='ocr_line' id='line_1_1' title="bbox 1834 6502 2183 6513; baseline 0.009 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1834 6502 2183 6513; x_wconf 51' lang='grc' dir='ltr'>..ω--ν-ρ-..η-...ν</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3578 6525 3872 6534">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3578 6525 3872 6534">
+     <span class='ocr_line' id='line_1_2' title="bbox 3578 6525 3872 6534; baseline 0.014 -7"><span class='ocrx_word' id='word_1_2' title='bbox 3578 6525 3662 6534; x_wconf 36' lang='lat'>7.—</span> <span class='ocrx_word' id='word_1_3' title='bbox 3708 6526 3774 6534; x_wconf 48' lang='grc' dir='ltr'><strong>ἠ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 3818 6526 3872 6534; x_wconf 35' lang='grc' dir='ltr'>κ-ι</span> 
+     </span>
+    </p>
+   </div>
+  </div>

@@ -1,0 +1,26 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/13/hvd.32044096580428/636.png"; bbox 0 0 4120 6186; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2698 446 3385 479">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2698 446 3385 479">
+     <span class='ocr_line' id='line_1_1' title="bbox 2698 446 3385 479; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 2698 446 3385 479; x_wconf 69' lang='grc' dir='ltr'><strong>ΙΙΙΙΠΙΙΙΙΙΙΙΙΙΙ--ΙΙΠΙ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2515 536 3526 653">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2515 536 3526 653">
+     <span class='ocr_line' id='line_1_2' title="bbox 2515 536 3526 653; baseline 0.002 -41"><span class='ocrx_word' id='word_1_2' title='bbox 2515 536 2566 612; x_wconf 88' lang='lat'>3</span> <span class='ocrx_word' id='word_1_3' title='bbox 2629 537 2848 653; x_wconf 82' lang='lat'><strong>2044</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2912 537 3074 613; x_wconf 91' lang='lat'><strong>096</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 3139 537 3300 613; x_wconf 89' lang='lat'><strong>580</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 3363 538 3526 614; x_wconf 90' lang='lat'><strong>428</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3818 866 4036 1428">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3823 871 4032 1423">
+     <span class='ocr_line' id='line_1_3' title="bbox 3823 871 4032 1423; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 3823 871 4032 1423; x_wconf 67' lang='grc'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 3823 871 4032 1423">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 3823 871 4032 1423">
+     <span class='ocr_line' id='line_1_4' title="bbox 3823 871 4032 1423; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 3823 871 4032 1423; x_wconf 67' lang='grc'>1</span> 
+     </span>
+    </p>
+   </div>
+  </div>
